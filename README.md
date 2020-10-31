@@ -1,10 +1,9 @@
 ## Welcome to my page 👋
----
 
 I'm Aretm, C++/Python software developer from <b>Saint Petersburg, Russia</b> :ru:
 </br>and currently studying at ETU.
 
-### 🔧 Langueges & Tools
+## 🔧 Langueges & Tools
 <P>
     <img alt="Windows" src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a"/>
     <img alt="Linux" src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a"/>
@@ -23,7 +22,7 @@ I'm Aretm, C++/Python software developer from <b>Saint Petersburg, Russia</b> :r
     <img alt="Heroku" src="https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=2bbc8a"/>
 </P>
 
-### 📈 My GitHub stats
+## 📈 My GitHub stats
 
 <a href="https://github.com/MercyFlesh/MercyFlesh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MercyFlesh&hide=go,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=373F46" />
