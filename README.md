@@ -25,7 +25,7 @@ I'm Aretm, C++/Python software developer from <b>Saint Petersburg, Russia</b> :r
 ## 📈 My GitHub stats
 
 <a href="https://github.com/MercyFlesh/MercyFlesh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MercyFlesh&hide=go,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=373F46" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MercyFlesh&hide=go,html&title_color=41b883&text_color=c9cacc&icon_color=41b883&bg_color=373F46" />
 </a>
 
 <a href="https://github.com/MercyFlesh/MercyFlesh">
