@@ -1,6 +1,6 @@
 ## Welcome to my page 👋
 
-I'm Aretm, C++/Python software developer from <b>Saint Petersburg, Russia</b> :ru:
+I'm Artem, C++/Python software developer from <b>Saint Petersburg, Russia</b> :ru:
 <br/>and currently studying at ETU.
 <br/>
 <br/>
@@ -41,7 +41,7 @@ I'm Aretm, C++/Python software developer from <b>Saint Petersburg, Russia</b> :r
 </a>
 
 <a href="https://github.com/MercyFlesh/MercyFlesh">
-  <img align="center" style="margin-left: 30px;" src="https://github-readme-stats.vercel.app/api?username=MercyFlesh&show_icons=true&line_height=27&count_private=true&title_color=BDDFFF&icon_color=6AB7FD&text_color=8FABC6&bg_color=0F1E2C"/>
+  <img align="center" style="margin-left: 60px;" src="https://github-readme-stats.vercel.app/api?username=MercyFlesh&show_icons=true&line_height=27&count_private=true&title_color=BDDFFF&icon_color=6AB7FD&text_color=8FABC6&bg_color=0F1E2C"/>
 </a>
 
 
