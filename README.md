@@ -1,7 +1,6 @@
 ## Welcome to my page 👋
 
-I'm Artem, back-end .NET developer from <b>Saint Petersburg, Russia</b> :ru:
-<br/>and currently studying at ETU.
+I'm Artem, back-end .NET developer from <b>Saint Petersburg</b> and currently studying at ETU.
 <br/>
 <br/>
 
