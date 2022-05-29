@@ -38,7 +38,7 @@ I'm Artem, back-end .NET developer from <b>Saint Petersburg</b> and currently st
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My GitHub stats
 <br/>
 <a href="https://github.com/MercyFlesh/MercyFlesh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MercyFlesh&hide=go,html&title_color=BDDFFF&text_color=8FABC6&icon_color=BDDFFF&bg_color=1b2f48" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MercyFlesh&hide=go,html,jupyter%20notebook&title_color=BDDFFF&text_color=8FABC6&icon_color=BDDFFF&bg_color=1b2f48" />
 </a>
 
 <a href="https://github.com/MercyFlesh/MercyFlesh">
